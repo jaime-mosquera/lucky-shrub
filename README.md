@@ -2,7 +2,7 @@
 A small website (just front-end) for a hypothetical garden design firm, developed as the final project of Meta's "HTML and CSS in depth" course.
 
 ## License
-The images used for this website were provided by Meta for the course, and I claim no copyright over them.
+The logos used for this website were provided by Meta for the course, and I claim no copyright over them.
 
 What little code this program has, however, is distributed under the terms of the GNU General Public License v3:
 
