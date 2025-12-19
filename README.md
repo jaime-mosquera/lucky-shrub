@@ -1,2 +1,15 @@
 # lucky-shrub
 A small website (just front-end) for a hypothetical garden design firm, developed as the final project of Meta's "HTML and CSS in depth" course.
+
+## License
+The images used for this website were provided by Meta for the course, and I claim no copyright over them.
+
+What little code this program has, however, is distributed under the terms of the GNU General Public License v3:
+
+Copyright (C) 2025  Jaime Mosquera
+
+This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
+
+This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License along with this program.  If not, see <https://www.gnu.org/licenses/>.
