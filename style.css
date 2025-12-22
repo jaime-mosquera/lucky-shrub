@@ -1,0 +1,97 @@
+* {
+	box-sizing: border-box;
+}
+
+body {
+	margin: 3rem 5%;
+	font-family: 'Garamond', 'Georgia', serif;
+}
+
+h1 {
+	font-size: 2rem;
+}
+
+h2 {
+	font-size: 1.5rem;
+}
+
+header > img {
+	display: block;
+	margin: 0 auto;
+}
+
+menu {
+	display: flex;
+	list-style: none;
+	padding: 0;
+	border: 0.2rem solid green;
+}
+
+menu li {
+	background-color: palegreen;
+	text-align: center;
+	padding: 1rem 0;
+	flex: 1;
+}
+
+menu li:hover {
+	background-color: green;
+}
+
+section {
+	display: flex;
+}
+
+figure > img {
+	width: 100%;
+}
+
+#upper_section > div {
+	flex: 100%;
+	text-align: center;
+	color: white;
+	background: linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ), url("img/garden-background.png");
+	background-repeat: no-repeat;
+	background-position: center;
+	padding: 0 3rem;
+}
+
+article {
+	text-align: center;
+	flex: 1;
+	padding: 0 2rem;
+}
+
+.text_bubble {
+	height: 90%;
+	border-radius: 5%;
+	padding: 1rem 1rem;
+	border: 0.5rem solid rgba(255, 255, 255, 0.5);
+	margin: 10px;
+	color: green;
+	background-color: palegreen;
+}
+
+.text_bubble:hover {
+	opacity: 50%;
+}
+
+footer {
+	display: flex;
+	margin: 10px 0 0 0;
+}
+
+#footer_logo {
+	flex: 1;
+	align-content: center;
+}
+
+#footer_logo > img {
+	display: block;
+	margin: 0 auto;
+}
+
+#footer_copyright {
+	flex: 4;
+	font-size: 0.75rem;
+}
